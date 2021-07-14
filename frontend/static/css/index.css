@@ -3,6 +3,8 @@ body {
     margin: 0 0 0 var(--nav-width);
     font-family: 'Quicksand', sans-serif;
     font-size: 18px;
+    padding-top: 100px;
+    background-image: url(/frontend/static/images/background-1.jpg)!important;
 }
 
 #app {
@@ -14,3 +16,16 @@ body {
 a {
     color: #009579;
 }
+
+.collor {
+    margin: 25px!important;
+    border-radius: 5px!important;
+    font-family: 'Ubuntu', sans-serif;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%)!important;
+}
+
+.p-4 {
+    border-radius: 0px 0px 5px 5px;
+}
+
+.background_1 {}
